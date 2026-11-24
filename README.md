@@ -1,4 +1,4 @@
-# Yanyan Miao
+# 苗妍妍
 
 I build local-first apps and practical web tools. I'm interested in turning everyday workflows into tools that are easy to use and give people control over their data.
 
